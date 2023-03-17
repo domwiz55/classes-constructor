@@ -1,0 +1,17 @@
+using System;
+namespace dpConstructor
+{
+	class First
+	{
+		public int x = 100;
+	}
+	class Demo
+	{
+		static void Main(sring[] args);
+		{
+			option choose1 = new Option();
+			option choose2 = new Option(); 
+			option choose3 = new Option();
+			console.WriteLine($"{choose1.x} {choose2.x} {choose3.x}";
+			Console.ReadKey();
+}}}
